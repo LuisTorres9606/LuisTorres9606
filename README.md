@@ -98,5 +98,6 @@ if __name__ == '__main__':
   </a>
 </p>
 </details>
+<h1></h1>
 <img src="./FooterGIT.png" alt="Footer" width="100%"/>
 <p align="center">Copyright © 2022 Fernando Torres Calderón</p>
