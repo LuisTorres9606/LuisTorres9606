@@ -98,3 +98,4 @@ if __name__ == '__main__':
   </a>
 </p>
 </details>
+<p align="center">Copyright © 2022 Fernando Torres Calderón</p>
