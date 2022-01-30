@@ -21,6 +21,7 @@
 <details>
     <summary> More... </summary>
     <h1> Personal Information</h1>
+</details>
 ```python
 class Nando9606:
 
@@ -50,4 +51,3 @@ if __name__ == '__main__':
     print(Nando9606().__str__()) # Looking for a job
 
 ```
-    </details>
