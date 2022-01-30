@@ -22,4 +22,35 @@
 <h4 align="center">
     <details>
         <summary> More... </summary>
+        <h1> Personal Information</h1>
+        <p align="center">
+           ```PYTHON
+            class Nando9606:
+
+                def __init__(self):
+                    self.username = 'Nando9606'
+                    self.NAME = 'Fernando Torres'
+                    self.email = 'nando9606@gmail.com'
+                    self.twitter = 'nando9606'
+                    self.job = 'None'
+                    self.level = 'Junior Developer'
+                    self.knowledge = {
+                        'fronted':  ['HTML','CSS','JavaScript','Boostrasp'],
+                        'backend':  ['Python','Flask'],
+                        'code' :    ['C#','Java'],
+                        'database': ['SQL'],
+                        'tools':    ['GIT','GitHub'],
+                        'misc':     ['SCRUM']
+                    }
+                    self.architecture = ['MVC', 'Capas']
+
+                def __str__(self):
+                    return self.NAME, self.level, self.job
+
+
+            if __name__ == '__main__':
+                me = Nando9606()
+                print(Nando9606().__str__()) # Looking for a job
+           ``` 
+        <p>
     </details>
