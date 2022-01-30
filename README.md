@@ -9,6 +9,7 @@ class Nando9606:
         self.NAME = 'Fernando Torres'
         self.email = 'nando9606@gmail.com'
         self.twitter = 'nando9606'
+        self.job = 'None'
         self.level = 'Junior Developer'
         self.knowledge = {
             'fronted':  ['HTML','CSS','JavaScript','Boostrasp'],
@@ -21,11 +22,12 @@ class Nando9606:
         self.architecture = ['MVC', 'Capas']
 
     def __str__(self):
-        return self.level
+        return self.NAME, self.level, self.job
 
 
 if __name__ == '__main__':
     me = Nando9606()
+    print(Nando9606().__str__()) # Looking for a job
 
 ```
 <!--
