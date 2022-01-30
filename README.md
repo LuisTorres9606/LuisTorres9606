@@ -22,10 +22,19 @@
     <a href="https://flask.palletsprojects.com/en/2.0.x/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="boostraps" width="40" height="40"/>
     </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    </a>
+    <a href="https://www.java.com/es/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    </a>
+    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+    </a>
     
 </p>
 <details>
-    <summary> More... </summary>
+    <summary align="center"> More... </summary>
     <h1 align="center"> Personal Information</h1>
 
 
