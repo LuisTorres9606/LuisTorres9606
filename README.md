@@ -54,7 +54,7 @@ class Nando9606:
         self.job = 'None'
         self.level = 'Junior Developer'
         self.knowledge = {
-            'fronted':  ['HTML','CSS','JavaScript','Boostrasp'],
+            'fronted':  ['HTML','CSS','JavaScript','Boostrasps'],
             'backend':  ['Python','Flask'],
             'code' :    ['C#','Java'],
             'database': ['SQL'],
