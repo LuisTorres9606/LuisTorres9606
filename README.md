@@ -98,4 +98,5 @@ if __name__ == '__main__':
   </a>
 </p>
 </details>
+<img src="./Footer.png" alt="Footer"/>
 <p align="center">Copyright © 2022 Fernando Torres Calderón</p>
