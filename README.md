@@ -23,7 +23,7 @@
     <details>
         <summary> More... </summary>
         <h1> Personal Information</h1>
-        <p align="center">
+        <p>
            ```PYTHON
             class Nando9606:
 
