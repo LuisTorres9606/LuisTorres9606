@@ -1,5 +1,5 @@
 
-<img src="https://github.com/LuisTorres9606/LuisTorres9606/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">### Hi there 👋
+<img src="https://github.com/LuisTorres9606/LuisTorres9606/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" margin-top="15%" align="right" alt="Computador iuriCode">### Hi there 👋
 
 
 ```python
