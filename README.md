@@ -22,6 +22,8 @@
     <summary> More... </summary>
     <h1> Personal Information</h1>
 </details>
+
+
 ```python
 class Nando9606:
 
