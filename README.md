@@ -16,11 +16,17 @@
     <a href="https://getbootstrap.com">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="boostraps" width="40" height="40"/>
     </a>
+    <a href="https://www.python.org">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="boostraps" width="40" height="40"/>
+    </a>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="boostraps" width="40" height="40"/>
+    </a>
     
 </p>
 <details>
     <summary> More... </summary>
-    <h1> Personal Information</h1>
+    <h1 align="center"> Personal Information</h1>
 
 
 ```python
@@ -52,4 +58,31 @@ if __name__ == '__main__':
     print(Nando9606().__str__()) # Looking for a job
 
 ```
+    
+<h3 align="center">About me:</h3>
+
+<p align="center">
+  <a href="https://instagram.com/nando9606/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://twitter.com/nando9606">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://discord.gg/seu-server">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+</p>
 </details>
