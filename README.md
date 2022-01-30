@@ -74,13 +74,13 @@ if __name__ == '__main__':
 <h3 align="center">About me:</h3>
 
 <p align="center">
-  <a href="https://instagram.com/nando9606/">
+  <a href="https://instagram.com/nando9606">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
   </a>
-  <a href="https://twitter.com/nando9606">
+  <a href="https://twitter.com/nando96">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
@@ -91,7 +91,7 @@ if __name__ == '__main__':
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/fernando-torres-calderón-88589b123/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
