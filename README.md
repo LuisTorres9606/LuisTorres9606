@@ -18,11 +18,9 @@
     </a>
     
 </p>
-
-<h4 align="center">
-    <details>
-        <summary> More... </summary>
-        <h1> Personal Information</h1>
+<details>
+    <summary> More... </summary>
+    <h1> Personal Information</h1>
 ```python
 class Nando9606:
 
