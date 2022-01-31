@@ -63,7 +63,7 @@ class Nando9606:
         }
         self.architecture = ['MVC', 'Capas']
 
-    def __str__(self):
+    def __str__(self) -> list:
         return self.NAME, self.level, self.job
 
 
