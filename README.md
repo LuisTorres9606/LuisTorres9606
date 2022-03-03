@@ -51,7 +51,7 @@ class Nando9606:
         self.NAME = 'Fernando Torres'
         self.email = 'nando9606@gmail.com'
         self.twitter = 'nando9606'
-        self.job = 'None'
+        self.job = 'BAC Latam'
         self.level = 'Junior Developer'
         self.knowledge = {
             'fronted':  ['HTML','CSS','JavaScript','Boostrasps'],
@@ -69,7 +69,7 @@ class Nando9606:
 
 if __name__ == '__main__':
     me = Nando9606()
-    print(Nando9606().__str__()) # Looking for a job
+    print(Nando9606().__str__())
 
 ```
     
